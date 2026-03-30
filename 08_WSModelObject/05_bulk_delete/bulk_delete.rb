@@ -1,0 +1,1 @@
+# WSModelObject.bulk_delete

@@ -1,0 +1,1 @@
+# WSModelObject.copy_here

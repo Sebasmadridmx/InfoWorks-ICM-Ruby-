@@ -1,0 +1,1 @@
+# WSModelObject.find_child_model_object
