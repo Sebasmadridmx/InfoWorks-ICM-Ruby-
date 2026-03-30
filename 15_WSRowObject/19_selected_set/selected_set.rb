@@ -1,0 +1,1 @@
+# WSRowObject.selected_set

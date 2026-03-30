@@ -1,0 +1,1 @@
+# WSRowObject.gauge_results
