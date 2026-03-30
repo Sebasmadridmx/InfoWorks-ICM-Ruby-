@@ -1,0 +1,1 @@
+# WSBaseNetworkObject.remove_local
