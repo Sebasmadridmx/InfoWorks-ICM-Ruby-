@@ -1,0 +1,1 @@
+# WSApplication.working_folder

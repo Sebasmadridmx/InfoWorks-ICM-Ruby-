@@ -1,0 +1,1 @@
+# WSApplication.local_root

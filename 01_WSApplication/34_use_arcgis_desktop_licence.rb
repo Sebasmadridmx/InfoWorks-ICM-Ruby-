@@ -1,0 +1,1 @@
+# WSApplication.use_arcgis_desktop_licence

@@ -1,0 +1,1 @@
+# WSApplication.cancel_job
