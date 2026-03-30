@@ -1,0 +1,1 @@
+# WSTableInfo.tableinfo_json
