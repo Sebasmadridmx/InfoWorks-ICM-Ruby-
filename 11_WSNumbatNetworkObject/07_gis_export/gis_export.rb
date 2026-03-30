@@ -1,0 +1,1 @@
+# WSNumbatNetworkObject.gis_export
