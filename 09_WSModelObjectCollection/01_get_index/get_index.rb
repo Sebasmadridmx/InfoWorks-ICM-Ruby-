@@ -1,0 +1,1 @@
+# WSModelObjectCollection.get_index
