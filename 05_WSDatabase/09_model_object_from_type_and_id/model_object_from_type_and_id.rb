@@ -1,0 +1,1 @@
+# WSDatabase.model_object_from_type_and_id
