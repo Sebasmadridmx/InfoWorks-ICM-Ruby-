@@ -1,0 +1,1 @@
+# WSRowObjectCollection.get_index
