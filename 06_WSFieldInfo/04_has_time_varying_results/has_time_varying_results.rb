@@ -1,0 +1,1 @@
+# WSFieldInfo.has_time_varying_results
