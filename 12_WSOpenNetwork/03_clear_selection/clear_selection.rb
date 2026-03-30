@@ -1,0 +1,1 @@
+# WSOpenNetwork.clear_selection

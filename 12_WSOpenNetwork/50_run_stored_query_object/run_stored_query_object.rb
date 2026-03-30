@@ -1,0 +1,1 @@
+# WSOpenNetwork.run_stored_query_object

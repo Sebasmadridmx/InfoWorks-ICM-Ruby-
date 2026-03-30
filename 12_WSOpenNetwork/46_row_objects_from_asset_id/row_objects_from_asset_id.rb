@@ -1,0 +1,1 @@
+# WSOpenNetwork.row_objects_from_asset_id

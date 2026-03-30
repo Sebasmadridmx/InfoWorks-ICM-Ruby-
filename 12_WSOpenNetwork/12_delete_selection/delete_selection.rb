@@ -1,0 +1,1 @@
+# WSOpenNetwork.delete_selection

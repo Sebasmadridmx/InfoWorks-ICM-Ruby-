@@ -1,0 +1,1 @@
+# WSOpenNetwork.current_scenario
